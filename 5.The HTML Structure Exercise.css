@@ -1,0 +1,15 @@
+.title {
+    font-family: Montserrat;
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+    margin-bottom: 12px;
+}
+
+.under-title {
+    font-family: Montserrat;
+    font-weight: normal;
+    text-align: center;
+    margin-top: 0;
+    font-size: 25px;
+}

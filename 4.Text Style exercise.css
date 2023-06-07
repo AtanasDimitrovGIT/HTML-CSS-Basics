@@ -1,0 +1,34 @@
+.video_tittle {
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 20px;
+    width: 350px;
+    line-height: 24px;
+    margin-bottom: 7px;
+}
+
+.views_and_TimePosted {
+    font-family: Arial;
+    font-size: 14px;
+    margin-top: 0px;
+    color: rgb(96, 96, 96);
+    margin-bottom: 20px;
+}
+
+.name {
+    font-family: Arial;
+    color: rgb(96, 96, 96);
+    font-size: 14px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+.info {
+    font-family: Arial;
+    color: rgb(96, 96, 96);
+    font-size: 14px;
+    margin-top: 20px;
+    width: 350px;
+    line-height: 21px;
+    margin-top: 0;
+}
